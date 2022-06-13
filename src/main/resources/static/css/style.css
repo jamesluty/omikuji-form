@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	margin-top: 10px;
+}
+
+.formDiv {
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 350px;
+}
+
+.formDiv h1 {
+	text-align: center;
+}
+
+.form {
+	border: 3px solid black;
+	margin-top: 20px;
+	padding: 20px;
+	padding-top: 10px;
+}
+
+.send {
+	background-color: blue;
+	border: 2px solid black;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px black;
+	color: white;
+	margin-top: 5px;
+	padding: 5px 15px;
+}
+
+.output {
+	background-color: rgb(159,197,248);
+	border: 3px solid black;
+	margin-top: 20px;
+	padding: 20px;
+	padding-top: 10px;
+}
+
+.homeBtnDiv {
+	display: flex;
+	justify-content: center;
+}
+
+.homeBtn {
+	margin-top: 40px;
+	text-align: center;
+}
